@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am Aditya, currently pursing B.Tech in Artificial Intelligence from Rungta College of Engineering and Technology Bhilai."
+  "Myself vikash suthar,I am recently grauated in Bachelor's of Computer Application from Pacific University and I have completed certification course of IBM Full Stack Software Developer."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -38,12 +38,10 @@ const skillsList = [
   "Express.js",
   "mongodb",
   "React",
-  "material UI",
-  "Tailwind",
+  "Flak",
+  "Django",
   "Git & Github",
   "pyhton",
-  "java",
-  "C",
 ];
 
 /**
@@ -52,7 +50,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in innovative and creative ways to drive technological advancement. With a strong foundation in the MERN Stack, I aspire to build a challenging career in software development where I can utilize my skills to achieve the best results. Drawing on my experience, I am committed to continuously finding new and improved methods to make technology accessible to everyone.";
+  "I am passionate about solving problems in innovative and creative ways to drive technological advancement. With a strong foundation in the Web Development, I aspire to build a challenging career in software development where I can utilize my skills to achieve the best results. Drawing on my experience, I am committed to continuously finding new and improved methods to make technology accessible to everyone.";
 
 const About = () => {
   return (
