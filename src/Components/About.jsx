@@ -24,19 +24,26 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am Aditya, currently pursing B.Tech in Artificial Intelligence from Rungta College of Engineering and Technology Bhilai."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML5",
+  "CSS3",
+  "BootStrap",
+  "JS",
+  "Node.js",
+  "Express.js",
+  "mongodb",
+  "React",
+  "material UI",
+  "Tailwind",
+  "Git & Github",
+  "pyhton",
+  "java",
+  "C",
 ];
 
 /**
@@ -45,7 +52,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in innovative and creative ways to drive technological advancement. With a strong foundation in the MERN Stack, I aspire to build a challenging career in software development where I can utilize my skills to achieve the best results. Drawing on my experience, I am committed to continuously finding new and improved methods to make technology accessible to everyone.";
 
 const About = () => {
   return (

@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Aditya Kumar",
-  title: "Web Developer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Web Developer",
+  email: "adityakumar20050510@gmail.com",
+  gitHub: "adityakashyap5047",
+  instagram: "adityakashyap5047",
+  linkedIn: "adityakashyap1",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
